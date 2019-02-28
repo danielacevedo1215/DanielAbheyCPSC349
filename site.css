@@ -1,0 +1,22 @@
+/* Add site styles here */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+html {
+    background: lightblue;
+    font-family: 'Roboto Mono', monospace;
+    color: whitesmoke;
+
+}
+
+.navigation{
+    border-style: solid;
+}
+
+.links{
+    border-style: solid;
+    color: black;
+}
+
+footer {
+    border-style: solid;
+    color: gray;
+}
